@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		229D017328219E4E0049F208 /* UIKitSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229D017228219E4E0049F208 /* UIKitSlider.swift */; };
 		22C47F8F282023F100C91CFF /* Lesson_3_4_SwiftUI_UIKitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C47F8E282023F100C91CFF /* Lesson_3_4_SwiftUI_UIKitApp.swift */; };
 		22C47F91282023F100C91CFF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C47F90282023F100C91CFF /* ContentView.swift */; };
 		22C47F93282023F200C91CFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22C47F92282023F200C91CFF /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		229D017228219E4E0049F208 /* UIKitSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitSlider.swift; sourceTree = "<group>"; };
 		22C47F8B282023F100C91CFF /* Lesson 3.4 SwiftUI_UIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lesson 3.4 SwiftUI_UIKit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		22C47F8E282023F100C91CFF /* Lesson_3_4_SwiftUI_UIKitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson_3_4_SwiftUI_UIKitApp.swift; sourceTree = "<group>"; };
 		22C47F90282023F100C91CFF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				22C47F8E282023F100C91CFF /* Lesson_3_4_SwiftUI_UIKitApp.swift */,
 				22C47F90282023F100C91CFF /* ContentView.swift */,
+				229D017228219E4E0049F208 /* UIKitSlider.swift */,
 				22C47F92282023F200C91CFF /* Assets.xcassets */,
 				22C47F94282023F200C91CFF /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				229D017328219E4E0049F208 /* UIKitSlider.swift in Sources */,
 				22C47F91282023F100C91CFF /* ContentView.swift in Sources */,
 				22C47F8F282023F100C91CFF /* Lesson_3_4_SwiftUI_UIKitApp.swift in Sources */,
 			);
